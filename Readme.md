@@ -88,3 +88,22 @@ Overall, XGBoost remained our most favorable model, with recall for class 0 and 
 In conclusion, the best model based on our research is XGBoost. We chose this based on accuracy score, recall score for classses 0 and 2, and precision score for class 1. Our overall accuracy was 79%, significantly higher than our baseline accuracy of 54.3%!
 
 For further plans, it would be beneficial to continue to run gridsearches and more models in order to try and maximize our scores of interest. We would need more time for this due to the computation time of running the models, as well as to account for the potential feature engineering and data manipulation that could be necessary depending on the models' results.
+
+```
+├── data
+│   ├── Data_columns_key.txt               <- description of columns
+│   ├── Status_groups.csv                  <- status of the water wells contained in training_set.csv
+│   ├── test_set.csv                       <- test set which was not used
+│   ├── training_set.csv                   <- training set which was the only set that was used
+├── README.md                              <- This README file
+├── gitignore                              <- files to ignore
+├── tanzania_water_well_project.ipynb      <- final notebook
+├── tanzania_water_well_project.pdf        <- presentation
+└── images                                 <- Visualizations used in README and pdf file
+```
+
+## Contact Information
+
+With questions or feedback on this repository, please reach out via:
+- [GitHub](https://github.com/Wonuabimbola)
+- [LinkedIn](https://www.linkedin.com/in/wonuola-abimbola)
