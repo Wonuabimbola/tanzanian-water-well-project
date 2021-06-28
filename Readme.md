@@ -95,7 +95,7 @@ For further plans, it would be beneficial to continue to run gridsearches and mo
 │   ├── Status_groups.csv                  <- status of the water wells contained in training_set.csv
 │   ├── test_set.csv                       <- test set which was not used
 │   ├── training_set.csv                   <- training set which was the only set that was used
-├── .gitignore                              <- files to ignore
+├── .gitignore                             <- files to ignore
 ├── README.md                              <- This README file
 ├── tanzania_water_well_project.ipynb      <- final notebook
 ├── tanzania_water_well_project.pdf        <- presentation
